@@ -7,4 +7,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-after downlode use commed npm run dev
+after downlode use commed npm install to install the node module
+
+https://github.com/fluvinu/PrivateRouting/assets/65756060/a70a90fc-3e56-4022-aa23-1d53d9f4e9f1
+
